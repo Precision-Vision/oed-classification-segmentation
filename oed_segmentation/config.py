@@ -1,9 +1,9 @@
 # Paths
-dataset_path_batch_01 = '/home/u2271662/tia/projects/pv/data/batch_01_rev01/'
-dataset_path_batch_02 = '/home/u2271662/tia/projects/pv/data/batch_02_rev02/'
-dataset_path_test_01 = '/home/u2271662/tia/projects/pv/data/external/chandrashekar/'
-dataset_path_test_02 = '/home/u2271662/tia/projects/pv/data/external/barot/'
-model_path = '/home/u2271662/tia/projects/pv/code/pv/maskrcnn-torch/models/'
+dataset_path_batch_01 = 'data/batch_01_rev01/'
+dataset_path_batch_02 = 'data/batch_02_rev02/'
+dataset_path_test_01 = 'data/external/chandrashekar/'
+dataset_path_test_02 = 'data/external/barot/'
+model_path = 'maskrcnn-torch/models/'
 
 # CONFIG
 batch_no = 2
